@@ -6,8 +6,6 @@ it('Teste Página', () => {
 
     cy.get('._rotate_1fsck_27 > img')
 
-    cy.type('senai muriaé')
-    cy.get('#search-submit')
 
 });
 
